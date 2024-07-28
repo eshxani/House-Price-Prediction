@@ -1,1 +1,3 @@
 # House-Price-Prediction
+The objective of this data science project is to develop a predictive model that can accurately estimate the sale prices of houses based on various features provided in the dataset. By leveraging machine learning algorithms and predictive modeling techniques, the goal is to create a model that can generalize well to unseen data and provide reliable predictions of house sale prices.
+The provided link leads to a Kaggle dataset titled "House Prices: Advanced Regression Techniques." It aims to predict the final price of residential homes in Ames, Iowa, based on various explanatory variables https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
